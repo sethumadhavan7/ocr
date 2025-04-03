@@ -4,5 +4,5 @@ pymupdf
 pillow
 pytesseract
 gtts
-tesseract-ocr
+
 
